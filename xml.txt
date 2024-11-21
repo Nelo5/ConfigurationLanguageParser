@@ -1,0 +1,46 @@
+<!-- User profile configuration -->
+<const>
+    <name>profile</name>
+    <dictionary>
+        <dictitem>
+            <name>username</name>
+            <string>john doe</string>
+        </dictitem>
+        <dictitem>
+            <name>age</name>
+            <number>25</number>
+        </dictitem>
+        <dictitem>
+            <name>hobbies</name>
+            <items>
+                <item>
+                    <string>Reading</string>
+                </item>
+                <item>
+                    <string>Gaming</string>
+                </item>
+                <item>
+                    <string>Traveling</string>
+                </item>
+            </items>
+        </dictitem>
+        <dictitem>
+            <name>address</name>
+            <dictionary>
+                <dictitem>
+                    <name>street</name>
+                    <string>Main St.</string>
+                </dictitem>
+                <dictitem>
+                    <name>house</name>
+                    <number>123</number>
+                </dictitem>
+                <dictitem>
+                    <name>country</name>
+                    <string>USA</string>
+                </dictitem>
+            </dictionary>
+        </dictitem>
+    </dictionary>
+</const>
+

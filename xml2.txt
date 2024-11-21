@@ -1,0 +1,43 @@
+<const>
+    <name>x</name>
+    <number>10</number>
+</const>
+<const>
+    <name>y</name>
+    <number>5</number>
+</const>
+<const>
+    <name>z</name>
+    <constexpr>
+        <func>+</func>
+        <name>x</name>
+        <number>2</number>
+    </constexpr>
+</const>
+<constexpr>
+        <func>sqrt</func>
+        <name>x</name>
+</constexpr>
+<constexpr>
+    <func>print</func>
+    <name>x</name>
+</constexpr>
+<constexpr>
+    <func>print</func>
+    <name>y</name>
+</constexpr>
+<constexpr>
+    <func>print</func>
+    <name>z</name>
+</constexpr>
+<constexpr>
+    <func>+</func>
+    <name>z</name>
+    <number>100</number>
+</constexpr>
+<constexpr>
+    <func>print</func>
+    <name>z</name>
+</constexpr>
+
+
