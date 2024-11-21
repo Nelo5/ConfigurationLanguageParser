@@ -216,7 +216,3 @@ python config_parser.py filename
 
 
 ## 5. Результаты прогона тестов
-
-
-
-# ConfigurationLanguageParser
